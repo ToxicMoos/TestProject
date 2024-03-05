@@ -14,7 +14,7 @@ public class FirstSeleniumTest {
         driver.get("https://ilcarro.web.app/search");
     }
     @Test
-    public void openIlcarroWewbSite() {
+    public void openIlcarroWebSite() {
         System.out.println("Site is opened!");
 
     }
