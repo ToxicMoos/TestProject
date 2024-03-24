@@ -24,4 +24,6 @@ public class FirstSeleniumTest {
         driver.quit();
     }
 
+    //update from Sergey
+
 }
