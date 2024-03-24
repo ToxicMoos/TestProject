@@ -78,3 +78,4 @@ public class FindElementTests {
         driver.quit();
     }
 }
+//This is a new commit attempt from the terminal
